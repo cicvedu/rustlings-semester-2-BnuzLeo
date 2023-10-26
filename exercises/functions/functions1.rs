@@ -8,5 +8,5 @@ fn main() {
 }
 
 fn call_me(){
-    println("i am call me")
+    println!("i am call me")
 }
